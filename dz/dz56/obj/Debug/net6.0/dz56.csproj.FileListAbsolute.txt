@@ -1,0 +1,15 @@
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\obj\Debug\net6.0\dz56.csproj.AssemblyReference.cache
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\obj\Debug\net6.0\dz56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\obj\Debug\net6.0\dz56.AssemblyInfoInputs.cache
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\obj\Debug\net6.0\dz56.AssemblyInfo.cs
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\obj\Debug\net6.0\dz56.csproj.CoreCompileInputs.cache
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\bin\Debug\net6.0\dz56.exe
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\bin\Debug\net6.0\dz56.deps.json
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\bin\Debug\net6.0\dz56.runtimeconfig.json
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\bin\Debug\net6.0\dz56.dll
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\bin\Debug\net6.0\dz56.pdb
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\obj\Debug\net6.0\dz56.dll
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\obj\Debug\net6.0\refint\dz56.dll
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\obj\Debug\net6.0\dz56.pdb
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\obj\Debug\net6.0\dz56.genruntimeconfig.cache
+C:\Users\vnadv\Desktop\C#\sem8\dz\dz56\obj\Debug\net6.0\ref\dz56.dll
